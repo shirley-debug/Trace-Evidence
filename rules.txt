@@ -1,0 +1,10 @@
+ RULES
+ - This is a detective-based game, and your goal is to determine who the murder(s) is(are).
+ - Click "Start" to start the game!
+ - After click the "Background Info" button, you will be given the background of this case with characters' names and their stories. 
+ - There is a little game called "Crossy" in which you can earn points by dodging the birds by controlling the ball. You will use the arrow keys (up, down, left and right) to control how the ball goes. The cloud is considered as a "safety zone". The points that you earned from this game will be added to your coins.
+ - You can buy clues using your coins by simplely click the "Shop" button. The clue costs 5 coints each and there are 43 clues in total. Remember more clues will help you analyze the case!
+ - You may also check what clues you have by click the "Bag" button. All the evidences that you currently have will be displayed in 
+ - If you want to save your progress, you can click the "Save" button. By doing this, if you exit the game and want to continue later you can still refer to your previous evidences. However, the coins won't be saved. 
+ - The "Reset" button will help you to reset your clue to nothing so that another player can play again.
+ GOOD LUCK!!
